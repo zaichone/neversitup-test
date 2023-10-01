@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Full description here from [Neversitup](https://docs.google.com/document/d/1N3owA8z3MrvnPMqUcfEsi-Q8cCIRyeaWpTXE1el0cME/edit)
+
+** Project with Material UI included
+** Code can auto deploy from Github to Vercel
 ## Available Scripts
 
 In the project directory, you can run:
